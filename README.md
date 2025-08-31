@@ -7,7 +7,7 @@ We use a **Long Short-Term Memory (LSTM)** model (a type of Recurrent Neural Net
 
 ## Output
 ![Model Performance](Results/Output.png)
-- All Trained Model Plots
+##  All Trained Model Plots
 ![All Stock Plots](Results/all_stock_plots.png)
 
 The entire pipeline — from **data acquisition** to **model training** to **deployment** — is automated.
@@ -94,6 +94,7 @@ Here is the performance summary across 20 stocks:
 -  Data Science Enthusiast | Python Developer | Automation Explorer
 - 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
 - 🐙 GitHub: waheed24-03
+
 
 
 
