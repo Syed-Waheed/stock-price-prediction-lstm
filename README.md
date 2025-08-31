@@ -88,6 +88,8 @@ Here is the performance summary across 20 stocks:
 - Yahoo Finance API (via yfinance)
 - Streamlit community
 
+   ## 👤 Author
+
 
 
 
