@@ -89,6 +89,9 @@ Here is the performance summary across 20 stocks:
 - Streamlit community
 
    ## 👤 Author
+-  Syed Abdul Waheed
+
+
 
 
 
